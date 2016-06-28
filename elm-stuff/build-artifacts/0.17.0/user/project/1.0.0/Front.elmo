@@ -1,0 +1,3 @@
+var _user$project$Front$main = {
+	main: _elm_lang$html$Html$text('Hello World')
+};
