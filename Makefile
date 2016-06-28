@@ -1,4 +1,4 @@
 .PHONY: all
 
 all:
-	elm-make src/Front.elm --output=index.html
+	elm-make src/Front.elm --output=build/front.js
